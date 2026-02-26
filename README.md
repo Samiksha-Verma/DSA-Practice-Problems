@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
