@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
