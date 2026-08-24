@@ -15,24 +15,15 @@ public:
 
                 int sum = nums[i] + nums[left] + nums[right];
 
-                
-                if (sum == target) {
-                    return sum;
-                }
-
-              
-                if (abs(sum - target) < abs(closest - target)) {
+                if (abs(target - sum) < abs(target - closest))
                     closest = sum;
-                }
 
-           
-                if (sum < target) {
+                if (sum < target)
                     left++;
-                }
-               
-                else {
+                else if (sum > target)
                     right--;
-                }
+                else
+                    return sum;
             }
         }
 
