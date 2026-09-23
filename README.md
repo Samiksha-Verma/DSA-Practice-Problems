@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0503-next-greater-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
