@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
