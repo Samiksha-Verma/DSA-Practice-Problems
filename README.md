@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
