@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Counting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Database
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 <!---LeetCode Topics End-->
