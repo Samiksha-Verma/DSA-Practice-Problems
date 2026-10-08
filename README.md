@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0032-longest-valid-parentheses) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
