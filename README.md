@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Hash Table
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Matrix
 |  |
