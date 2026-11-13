@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Database
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
