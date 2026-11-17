@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
