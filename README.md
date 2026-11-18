@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Matrix
