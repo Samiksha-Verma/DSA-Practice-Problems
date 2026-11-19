@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1929-concatenation-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0054-spiral-matrix) |
 ## Manacher
 |  |
 | ------- |
