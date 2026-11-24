@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0503-next-greater-element-ii) |
+| [0881-boats-to-save-people](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
