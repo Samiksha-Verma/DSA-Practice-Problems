@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
