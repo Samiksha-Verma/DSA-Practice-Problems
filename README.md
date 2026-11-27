@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0496-next-greater-element-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samiksha-Verma/DSA-Practice-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
